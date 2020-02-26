@@ -52,6 +52,5 @@ function draw() {
     endShape();
 
     div.html(pi);
-    
     iterations++;
 }
